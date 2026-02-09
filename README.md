@@ -1,10 +1,10 @@
 # 26W_CST8915_Lab2-Submission
 
 <ul>
-<li> **Student Name**: Thomas de Haan Carriere</li>
-<li> **Student ID**: 41276876</li>
-<li> **Course**: CST8915 Full-stack Cloud-native Development</li>
-<li> **Semester**: Winter 2026</li>
+<li>Student Name: Thomas de Haan Carriere</li>
+<li>Student ID: 41276876</li>
+<li>Course: CST8915 Full-stack Cloud-native Development</li>
+<li>Semester: Winter 2026</li>
 </ul>
 
 <ul>

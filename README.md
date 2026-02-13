@@ -13,7 +13,7 @@
 <li>Product-Service Repo: https://github.com/thomas7carriere/26W_CST8915_Lab2_Product_Service</li>
 </ul>
 ## Demo Video
-
+Note: In the demo I was accidentally accessing the store front through an instance I had running locally, as the address was the same from the VM (which I recognize looking back is my mistake). The store front VM was functional; however, it was not captured in the video 
 🎥 [Watch Demo Video](https://youtu.be/oHgaBzTBJe0)
 
 ---
